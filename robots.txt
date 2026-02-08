@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /assets/.env
+Disallow: /.env
+
+Sitemap: https://www.luvvone.com/sitemap.xml
