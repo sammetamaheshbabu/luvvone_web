@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll('form[action="#"]').forEach((form) => {
     form.addEventListener("submit", (e) => {
       e.preventDefault();
-      toast.show("Contact form coming soon. Email support@luvvone.com");
+      toast.show("Contact form coming soon. Email us at svbtechlabs@gmail.com");
     });
   });
 });
